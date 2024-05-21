@@ -9,9 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravo312/Data-Visualization-Entire-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bravo312/Data-Visualization-Entire-Website/issues"
+  },
+  "homepage": "https://github.com/bravo312/Data-Visualization-Entire-Website#readme",
+  "description": ""
 }
